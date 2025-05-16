@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erfan Mansoori</h1>
-<h3 align="center">A passionate AI Developer and Software Developer with expertise in Generative AI, Transformers, and Full-Stack Web Development.</h3>
+<h3 align="center">A passionate AI and Software Developer with expertise in LLMs and Back-End Web Development.</h3>
 
 <p align="center">
   <img src="https://github.com/emansoori/emansoori/blob/main/Coding.gif" alt="coding gif" width="400"/>
